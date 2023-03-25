@@ -1,1 +1,111 @@
+header #nav1{
+
+  background-color: #111122;
+
+  height: 4vh;
+
+  display: flex;
+
+  justify-content: space-between;
+
+  flex-direction: row;
+
+}
+
+header #nav1 #logo{
+
+  margin-top: 10px;
+
+  margin-left: 2px;
+
+  height: 70%;
+
+}
+
+header #nav1 #logo a{
+
+  text-decoration: none;
+
+  font-size: 1.5rem;
+
+  text-transform: uppercase;
+
+  font-weight: bold;
+
+  color:#fff;
+
+  font-family: "Open Sans", sans-serif;
+
+}
+
+header #nav1 #loc {
+
+  margin-top: 10px;
+
+  margin-left: 2px;
+
+  height: 70%;
+
+}
+
+header #nav1 #loc a{
+
+  text-decoration: none;
+
+  display: flex;
+
+}
+
+header #nav1 #loc #del{
+
+  font-size: 1.1rem;
+
+  color:#f1f1f1;
+
+}
+
+header #nav1 #loc #ind{
+
+  font-size: 1.2rem;
+
+  color:#f1f1f1;
+
+  font-weight: bold;
+
+}
+
+header #nav1 #loc .fa{
+
+  color:#fff;
+
+  margin-top: 9px;
+
+  font-size: 2rem;
+
+}
+
+header #nav1 #loc a #details{
+
+  margin-right: 30px;
+
+}
+
+header #nav1 #search{
+
+  margin-top: 10px;
+
+  display: flex;
+
+}
+
+/* navbar 2*/
+
+header #nav2{
+
+  background-color: #0a2647;
+
+  height:3vh;
+
+}
+
 
